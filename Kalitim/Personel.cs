@@ -6,9 +6,13 @@ using System.Threading.Tasks;
 
 namespace Kalitim
 {
-    internal class Personel:Kisi
+    public class Personel : Kisi
     {
         public int Maas { get; set; }
         public string Departman { get; set; }
+        public Personel()
+        {
+            Maas = 4500;
+        }
     }
 }

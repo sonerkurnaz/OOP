@@ -1,17 +1,66 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Kalitim.Kisi">
-    <Position X="3" Y="1" Width="1.5" />
+    <Position X="0.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAIAAAAAACAAAAAAEAAAAAACAAAAAAEACAAAACAAAAA=</HashCode>
       <FileName>Kisi.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Kalitim.Personel">
-    <Position X="6" Y="1" Width="1.5" />
+    <Position X="2.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAA=</HashCode>
       <FileName>Personel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.Sekreter">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sekreter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.GenelMudur" Collapsed="true">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GenelMudur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.InsanKaynaklari">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>InsanKaynaklari.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.ITPersonel">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAEAAAAAAA=</HashCode>
+      <FileName>ITPersonel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.Muhasebe">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Muhasebe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.SatisElemani">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAwAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SatisElemani.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kalitim.SatisMuduru">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>SatisMuduru.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
