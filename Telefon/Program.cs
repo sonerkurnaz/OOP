@@ -8,6 +8,11 @@ namespace Telefon
         {
             Telefon Iphone = new Telefon();
             Telefon Samsung = new Telefon();
+            Samsung.Model = "S6";
+            Console.WriteLine(Samsung.Model);
+            Iphone.Model = "8 Plus";
+            Console.WriteLine(Iphone.Model);
+            Iphone.AramaYap();
         }
     }
 }

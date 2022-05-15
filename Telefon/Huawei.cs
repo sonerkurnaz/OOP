@@ -2,15 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Telefon
 {
-    public class IOS : Telefon
+    public class Huawei : HarmonyOS
     {
-        public void AppStoreUygIndir()
-        {
 
-        }
     }
 }

@@ -5,11 +5,9 @@ using System.Text;
 
 namespace Telefon
 {
-    public class Telefon
+    public class Xiaomi : Android
     {
-        public string Model { get; set; }
-        public int UretimYili { get; set; }
         
     }
-   
+
 }

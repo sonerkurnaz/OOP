@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Telefon
 {
-    public class Android : Telefon
+    public class HarmonyOS : Telefon
     {
-        public void PlayStoreUygIndir()
+        public void AppGalleryUygIndir()
         {
 
         }
