@@ -10,9 +10,10 @@
   <Class Name="Kalitim.Personel">
     <Position X="2.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAACAEAA=</HashCode>
       <FileName>Personel.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="Kalitim.Sekreter">
     <Position X="4.5" Y="0.5" Width="1.5" />
@@ -21,26 +22,27 @@
       <FileName>Sekreter.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Kalitim.GenelMudur" Collapsed="true">
-    <Position X="7.75" Y="0.75" Width="1.5" />
+  <Class Name="Kalitim.GenelMudur">
+    <Position X="7.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>GenelMudur.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Kalitim.InsanKaynaklari">
-    <Position X="2.5" Y="2.5" Width="1.5" />
+    <Position X="2.5" Y="2.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
       <FileName>InsanKaynaklari.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Kalitim.ITPersonel">
-    <Position X="3" Y="5" Width="1.5" />
+    <Position X="3" Y="4.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAEAAAAAAA=</HashCode>
+      <HashCode>AIIAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAEAAAAAAA=</HashCode>
       <FileName>ITPersonel.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="Kalitim.Muhasebe">
     <Position X="7.75" Y="2.75" Width="1.5" />
@@ -48,11 +50,12 @@
       <HashCode>AAgAAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAAAAAA=</HashCode>
       <FileName>Muhasebe.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="Kalitim.SatisElemani">
     <Position X="5.25" Y="2.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAgAwAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAABAgAwAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>SatisElemani.cs</FileName>
     </TypeIdentifier>
   </Class>

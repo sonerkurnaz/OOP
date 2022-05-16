@@ -6,21 +6,10 @@ using System.Threading.Tasks;
 
 namespace Kalitim
 {
-    public class ITPersonel : Personel
+    public class ITPersonel : Personel,IITPersonel
     {
         public ITTecrube Tecrube { get; set; }
-        public void ArizalaraMudahaleEt()
-        {
-
-        }
-        public void KodYaz()
-        {
-
-        }
-        public void NetworkProblemleriniGider()
-        {
-
-        }
+      
         public ITPersonel()
         {
             switch (Tecrube)
@@ -40,6 +29,21 @@ namespace Kalitim
                 default:
                     break;
             }
+        }
+
+        public void ArizalaraMudahaleEt()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void KodYaz()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void NetworkProblemleriniGider()
+        {
+            throw new NotImplementedException();
         }
     }
 }
