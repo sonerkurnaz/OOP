@@ -1,59 +1,60 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="Telefon.Android">
-    <Position X="6.25" Y="1" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Android.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Class Name="Telefon.Telefon">
-    <Position X="2" Y="1" Width="1.5" />
+    <Position X="0.75" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAI=</HashCode>
       <FileName>Telefon.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Telefon.IOS">
-    <Position X="4" Y="1" Width="1.5" />
+    <Position X="2.75" Y="1" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
       <FileName>IOS.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Telefon.HarmonyOS">
-    <Position X="8.25" Y="1" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>HarmonyOS.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="Telefon.Samsung">
-    <Position X="6.25" Y="3" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Samsung.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="Telefon.Iphone">
-    <Position X="4" Y="3" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Iphone.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Class Name="Telefon.Xiaomi">
-    <Position X="6.25" Y="4.75" Width="1.5" />
+    <Position X="5" Y="4.5" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Xiaomi.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="Telefon.HarmonyOS">
+    <Position X="7.5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HarmonyOS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telefon.Iphone">
+    <Position X="2.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Iphone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telefon.Samsung">
+    <Position X="5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Samsung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Class Name="Telefon.Huawei">
-    <Position X="8.25" Y="3" Width="1.5" />
+    <Position X="7.5" Y="2.75" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Huawei.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telefon.Android">
+    <Position X="5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Android.cs</FileName>
+      <NewMemberFileName>ANDROID.cs</NewMemberFileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

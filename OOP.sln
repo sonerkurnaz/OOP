@@ -5,7 +5,11 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kalitim", "Kalitim\Kalitim.csproj", "{816E1E5F-FF2C-4619-8FDE-0D288B30E457}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telefon", "Telefon\Telefon.csproj", "{88B957DC-A9F1-44CD-AF8B-E63D2C9518EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Telefon", "Telefon\Telefon.csproj", "{88B957DC-A9F1-44CD-AF8B-E63D2C9518EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfizm", "Polimorfizm\Polimorfizm.csproj", "{DF3D53D8-38EA-4400-B5AE-B9ED0FFA3AE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfizm2", "Polimorfizm2\Polimorfizm2.csproj", "{C364DA98-3852-4F62-8087-4988F0D9DE6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{88B957DC-A9F1-44CD-AF8B-E63D2C9518EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88B957DC-A9F1-44CD-AF8B-E63D2C9518EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88B957DC-A9F1-44CD-AF8B-E63D2C9518EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF3D53D8-38EA-4400-B5AE-B9ED0FFA3AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3D53D8-38EA-4400-B5AE-B9ED0FFA3AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3D53D8-38EA-4400-B5AE-B9ED0FFA3AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3D53D8-38EA-4400-B5AE-B9ED0FFA3AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C364DA98-3852-4F62-8087-4988F0D9DE6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C364DA98-3852-4F62-8087-4988F0D9DE6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C364DA98-3852-4F62-8087-4988F0D9DE6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C364DA98-3852-4F62-8087-4988F0D9DE6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

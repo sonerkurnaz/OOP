@@ -8,6 +8,9 @@ namespace Kalitim
 {
     public class SatisElemani : Personel
     {
+        //Sadece miras verdiği classlardan ulasılabilir.
+        //dısarıya acık degildir.
+        protected bool ArabasiVarMi { get; set; }
         public void ToplantiYap()
         {
 
