@@ -6,6 +6,7 @@ namespace InterfaceProjesi
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Hello World!");
         }
     }

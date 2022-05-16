@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InterfaceProjesi
 {
-    internal class Kaleci:IFutbolcu
+    internal class Forvet:IFutbolcu
     {
         public string AdSoyad { get; set; }
         public string FormaNumarasi { get; set; }
@@ -15,16 +15,6 @@ namespace InterfaceProjesi
         public bool HangiAyak { get; set; }
         public int Agresiflik { get; set; }
         public bool MilliMi { get; set; }
-        public bool ElleTopKontrol { get; set; }
-        public void PenaltiKurtar()
-        {
-
-        }
-        public void CekilenSutlariKurtar()
-        {
-
-        }
-
 
         public void CalimAt()
         {
