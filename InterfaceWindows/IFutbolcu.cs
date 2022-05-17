@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterfaceProjesi
+namespace InterfaceWindows
 {
-    internal class Defans:IFutbolcu
+    internal interface IFutbolcu
     {
         public string AdSoyad { get; set; }
         public string FormaNumarasi { get; set; }
@@ -15,25 +15,8 @@ namespace InterfaceProjesi
         public bool HangiAyak { get; set; }
         public int Agresiflik { get; set; }
         public bool MilliMi { get; set; }
-        public void OfsaytTaktigi()
-        {
-
-        }
-
-
-        public void CalimAt()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void PresYap()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void SutCek()
-        {
-            throw new NotImplementedException();
-        }
+        public void CalimAt();
+        public void PresYap();
+        public void SutCek();
     }
 }

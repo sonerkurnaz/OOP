@@ -16,6 +16,7 @@ namespace InterfaceProjesi
         public int Agresiflik { get; set; }
         public bool MilliMi { get; set; }
 
+
         public void CalimAt()
         {
             throw new NotImplementedException();

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterfaceProjesi
+namespace InterfaceWindows
 {
-    internal class Defans:IFutbolcu
+    internal class Kaleci : IFutbolcu
     {
         public string AdSoyad { get; set; }
         public string FormaNumarasi { get; set; }
@@ -15,7 +15,12 @@ namespace InterfaceProjesi
         public bool HangiAyak { get; set; }
         public int Agresiflik { get; set; }
         public bool MilliMi { get; set; }
-        public void OfsaytTaktigi()
+        public bool ElleTopKontrol { get; set; }
+        public void PenaltiKurtar()
+        {
+
+        }
+        public void CekilenSutlariKurtar()
         {
 
         }
